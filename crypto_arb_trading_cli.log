@@ -1,0 +1,155 @@
+2026-08-30 15:29:31,656 INFO Starting simulation: capital=$1000.00 window=2026-08-31T09:00:00+02:00 -> 2026-08-31T16:50:00+02:00
+2026-08-30 15:29:31,658 INFO TRADE spread=1.102% buy 0.066542 ETH on VenueB@3002.60 -> sell on VenueA@3035.70 | profit=$1.80 capital=$1001.80
+2026-08-30 15:29:31,659 INFO TRADE spread=0.525% buy 0.066924 ETH on VenueB@2990.86 -> sell on VenueA@3006.56 | profit=$0.65 capital=$1002.45
+2026-08-30 15:29:31,661 INFO TRADE spread=0.990% buy 0.067488 ETH on VenueB@2967.76 -> sell on VenueA@2997.15 | profit=$1.58 capital=$1004.03
+2026-08-30 15:29:31,662 INFO TRADE spread=1.014% buy 0.067337 ETH on VenueB@2979.14 -> sell on VenueA@3009.36 | profit=$1.63 capital=$1005.66
+2026-08-30 15:29:31,664 INFO TRADE spread=1.079% buy 0.067266 ETH on VenueA@2987.10 -> sell on VenueB@3019.34 | profit=$1.76 capital=$1007.43
+2026-08-30 15:29:31,665 INFO TRADE spread=0.478% buy 0.066737 ETH on VenueB@3016.06 -> sell on VenueA@3030.47 | profit=$0.56 capital=$1007.98
+2026-08-30 15:29:31,666 INFO TRADE spread=0.417% buy 0.067338 ETH on VenueB@2990.81 -> sell on VenueA@3003.28 | profit=$0.44 capital=$1008.42
+2026-08-30 15:29:31,667 INFO TRADE spread=0.550% buy 0.068225 ETH on VenueB@2953.21 -> sell on VenueA@2969.45 | profit=$0.70 capital=$1009.12
+2026-08-30 15:29:31,668 INFO TRADE spread=0.589% buy 0.067588 ETH on VenueA@2983.12 -> sell on VenueB@3000.68 | profit=$0.78 capital=$1009.91
+2026-08-30 15:29:31,669 INFO TRADE spread=0.476% buy 0.067735 ETH on VenueB@2978.96 -> sell on VenueA@2993.15 | profit=$0.56 capital=$1010.46
+2026-08-30 15:29:31,670 INFO TRADE spread=1.129% buy 0.067454 ETH on VenueA@2993.02 -> sell on VenueB@3026.81 | profit=$1.87 capital=$1012.34
+2026-08-30 15:29:31,672 INFO TRADE spread=0.467% buy 0.067918 ETH on VenueA@2978.09 -> sell on VenueB@2991.99 | profit=$0.54 capital=$1012.87
+2026-08-30 15:29:31,673 INFO TRADE spread=1.502% buy 0.067664 ETH on VenueA@2990.84 -> sell on VenueB@3035.76 | profit=$2.63 capital=$1015.51
+2026-08-30 15:29:31,673 INFO TRADE spread=0.701% buy 0.067687 ETH on VenueA@2997.58 -> sell on VenueB@3018.60 | profit=$1.02 capital=$1016.52
+2026-08-30 15:29:31,675 INFO TRADE spread=1.034% buy 0.068143 ETH on VenueA@2980.53 -> sell on VenueB@3011.34 | profit=$1.69 capital=$1018.21
+2026-08-30 15:29:31,675 INFO TRADE spread=0.503% buy 0.067832 ETH on VenueB@2999.16 -> sell on VenueA@3014.26 | profit=$0.62 capital=$1018.83
+2026-08-30 15:29:31,676 INFO TRADE spread=0.459% buy 0.067123 ETH on VenueA@3032.67 -> sell on VenueB@3046.58 | profit=$0.53 capital=$1019.35
+2026-08-30 15:29:31,677 INFO TRADE spread=1.215% buy 0.067083 ETH on VenueB@3036.05 -> sell on VenueA@3072.95 | profit=$2.07 capital=$1021.42
+2026-08-30 15:29:31,678 INFO TRADE spread=1.192% buy 0.067375 ETH on VenueA@3028.99 -> sell on VenueB@3065.10 | profit=$2.02 capital=$1023.44
+2026-08-30 15:29:31,679 INFO TRADE spread=1.257% buy 0.067885 ETH on VenueB@3012.19 -> sell on VenueA@3050.04 | profit=$2.16 capital=$1025.60
+2026-08-30 15:29:31,680 INFO TRADE spread=0.959% buy 0.068611 ETH on VenueB@2986.61 -> sell on VenueA@3015.24 | profit=$1.55 capital=$1027.15
+2026-08-30 15:29:31,681 INFO TRADE spread=0.861% buy 0.067711 ETH on VenueA@3030.88 -> sell on VenueB@3056.98 | profit=$1.35 capital=$1028.51
+2026-08-30 15:29:31,682 INFO TRADE spread=1.368% buy 0.067962 ETH on VenueB@3023.68 -> sell on VenueA@3065.03 | profit=$2.40 capital=$1030.90
+2026-08-30 15:29:31,683 INFO TRADE spread=0.426% buy 0.067985 ETH on VenueB@3029.68 -> sell on VenueA@3042.60 | profit=$0.47 capital=$1031.37
+2026-08-30 15:29:31,684 INFO TRADE spread=0.752% buy 0.067831 ETH on VenueA@3037.96 -> sell on VenueB@3060.82 | profit=$1.14 capital=$1032.50
+2026-08-30 15:29:31,684 INFO TRADE spread=1.197% buy 0.068628 ETH on VenueA@3005.98 -> sell on VenueB@3041.95 | profit=$2.05 capital=$1034.56
+2026-08-30 15:29:31,685 INFO TRADE spread=0.607% buy 0.068639 ETH on VenueB@3011.49 -> sell on VenueA@3029.77 | profit=$0.84 capital=$1035.40
+2026-08-30 15:29:31,686 INFO TRADE spread=0.513% buy 0.068352 ETH on VenueB@3026.58 -> sell on VenueA@3042.10 | profit=$0.65 capital=$1036.04
+2026-08-30 15:29:31,687 INFO TRADE spread=1.009% buy 0.068814 ETH on VenueB@3008.13 -> sell on VenueA@3038.47 | profit=$1.67 capital=$1037.71
+2026-08-30 15:29:31,688 INFO TRADE spread=1.170% buy 0.068441 ETH on VenueA@3029.42 -> sell on VenueB@3064.86 | profit=$2.01 capital=$1039.72
+2026-08-30 15:29:31,689 INFO TRADE spread=1.062% buy 0.068231 ETH on VenueB@3044.59 -> sell on VenueA@3076.92 | profit=$1.79 capital=$1041.51
+2026-08-30 15:29:31,690 INFO TRADE spread=0.461% buy 0.068674 ETH on VenueA@3030.19 -> sell on VenueB@3044.17 | profit=$0.54 capital=$1042.05
+2026-08-30 15:29:31,691 INFO TRADE spread=0.883% buy 0.069444 ETH on VenueB@2998.13 -> sell on VenueA@3024.59 | profit=$1.42 capital=$1043.47
+2026-08-30 15:29:31,691 INFO TRADE spread=1.146% buy 0.069450 ETH on VenueB@3001.97 -> sell on VenueA@3036.37 | profit=$1.97 capital=$1045.44
+2026-08-30 15:29:31,692 INFO TRADE spread=0.993% buy 0.069048 ETH on VenueA@3025.11 -> sell on VenueB@3055.15 | profit=$1.65 capital=$1047.10
+2026-08-30 15:29:31,693 INFO TRADE spread=0.513% buy 0.069205 ETH on VenueB@3023.03 -> sell on VenueA@3038.55 | profit=$0.65 capital=$1047.75
+2026-08-30 15:29:31,694 INFO TRADE spread=0.914% buy 0.069859 ETH on VenueB@2996.61 -> sell on VenueA@3024.01 | profit=$1.49 capital=$1049.24
+2026-08-30 15:29:31,695 INFO TRADE spread=1.451% buy 0.069621 ETH on VenueB@3011.13 -> sell on VenueA@3054.81 | profit=$2.62 capital=$1051.86
+2026-08-30 15:29:31,696 INFO TRADE spread=1.367% buy 0.069307 ETH on VenueA@3032.35 -> sell on VenueB@3073.80 | profit=$2.45 capital=$1054.31
+2026-08-30 15:29:31,697 INFO TRADE spread=1.124% buy 0.070339 ETH on VenueA@2994.81 -> sell on VenueB@3028.48 | profit=$1.94 capital=$1056.26
+2026-08-30 15:29:31,698 INFO TRADE spread=0.768% buy 0.069710 ETH on VenueA@3027.38 -> sell on VenueB@3050.63 | profit=$1.20 capital=$1057.45
+2026-08-30 15:29:31,699 INFO TRADE spread=1.067% buy 0.069753 ETH on VenueA@3028.98 -> sell on VenueB@3061.30 | profit=$1.83 capital=$1059.28
+2026-08-30 15:29:31,700 INFO TRADE spread=0.831% buy 0.069853 ETH on VenueA@3029.85 -> sell on VenueB@3055.03 | profit=$1.33 capital=$1060.62
+2026-08-30 15:29:31,701 INFO TRADE spread=1.216% buy 0.070656 ETH on VenueB@2999.21 -> sell on VenueA@3035.68 | profit=$2.15 capital=$1062.77
+2026-08-30 15:29:31,701 INFO TRADE spread=0.463% buy 0.070325 ETH on VenueA@3019.41 -> sell on VenueB@3033.38 | profit=$0.56 capital=$1063.32
+2026-08-30 15:29:31,702 INFO TRADE spread=1.124% buy 0.070002 ETH on VenueA@3034.94 -> sell on VenueB@3069.06 | profit=$1.96 capital=$1065.28
+2026-08-30 15:29:31,703 INFO TRADE spread=0.759% buy 0.070172 ETH on VenueB@3033.18 -> sell on VenueA@3056.21 | profit=$1.19 capital=$1066.47
+2026-08-30 15:29:31,704 INFO TRADE spread=0.485% buy 0.069876 ETH on VenueB@3049.43 -> sell on VenueA@3064.22 | profit=$0.61 capital=$1067.08
+2026-08-30 15:29:31,705 INFO TRADE spread=0.874% buy 0.070223 ETH on VenueA@3036.06 -> sell on VenueB@3062.60 | profit=$1.44 capital=$1068.51
+2026-08-30 15:29:31,706 INFO TRADE spread=0.987% buy 0.070432 ETH on VenueA@3031.14 -> sell on VenueB@3061.06 | profit=$1.68 capital=$1070.19
+2026-08-30 15:29:31,707 INFO TRADE spread=0.424% buy 0.070544 ETH on VenueA@3031.06 -> sell on VenueB@3043.92 | profit=$0.48 capital=$1070.67
+2026-08-30 15:29:31,708 INFO TRADE spread=0.493% buy 0.069882 ETH on VenueA@3061.17 -> sell on VenueB@3076.26 | profit=$0.63 capital=$1071.30
+2026-08-30 15:29:31,709 INFO TRADE spread=1.169% buy 0.069891 ETH on VenueA@3062.55 -> sell on VenueB@3098.34 | profit=$2.07 capital=$1073.37
+2026-08-30 15:29:31,710 INFO TRADE spread=0.776% buy 0.069988 ETH on VenueB@3064.22 -> sell on VenueA@3088.01 | profit=$1.23 capital=$1074.60
+2026-08-30 15:29:31,710 INFO TRADE spread=1.164% buy 0.070849 ETH on VenueA@3030.48 -> sell on VenueB@3065.74 | profit=$2.07 capital=$1076.67
+2026-08-30 15:29:31,711 INFO TRADE spread=0.592% buy 0.070478 ETH on VenueB@3052.25 -> sell on VenueA@3070.31 | profit=$0.84 capital=$1077.51
+2026-08-30 15:29:31,712 INFO TRADE spread=1.025% buy 0.071223 ETH on VenueB@3022.72 -> sell on VenueA@3053.71 | profit=$1.77 capital=$1079.28
+2026-08-30 15:29:31,713 INFO TRADE spread=0.969% buy 0.070383 ETH on VenueA@3063.82 -> sell on VenueB@3093.51 | profit=$1.66 capital=$1080.94
+2026-08-30 15:29:31,714 INFO TRADE spread=1.235% buy 0.071468 ETH on VenueB@3021.93 -> sell on VenueA@3059.24 | profit=$2.23 capital=$1083.17
+2026-08-30 15:29:31,715 INFO TRADE spread=0.699% buy 0.070892 ETH on VenueB@3052.77 -> sell on VenueA@3074.12 | profit=$1.08 capital=$1084.25
+2026-08-30 15:29:31,716 INFO TRADE spread=1.126% buy 0.071751 ETH on VenueA@3019.25 -> sell on VenueB@3053.25 | profit=$2.00 capital=$1086.25
+2026-08-30 15:29:31,717 INFO TRADE spread=1.261% buy 0.071036 ETH on VenueB@3055.27 -> sell on VenueA@3093.79 | profit=$2.30 capital=$1088.55
+2026-08-30 15:29:31,717 INFO 
+2026-08-30 15:29:31,717 INFO ==================================================
+2026-08-30 15:29:31,717 INFO TRADING SUMMARY
+2026-08-30 15:29:31,717 INFO ==================================================
+2026-08-30 15:29:31,717 INFO Starting capital:  $1,000.00
+2026-08-30 15:29:31,717 INFO Ending capital:    $1,088.55
+2026-08-30 15:29:31,717 INFO Total P/L:         $88.57 (+8.857%)
+2026-08-30 15:29:31,717 INFO Trades executed:   62  (wins: 62, losses: 0)
+2026-08-30 15:29:31,717 INFO ==================================================
+2026-08-30 16:08:47,168 INFO Starting simulation: capital=$1000.00 window=2026-08-31T09:00:00+02:00 -> 2026-08-31T16:50:00+02:00
+2026-08-30 16:08:47,219 INFO TRADE spread=0.401% buy 0.066507 ETH on VenueA@3004.20 -> sell on VenueB@3016.26 | profit=$0.40 capital=$1000.40
+2026-08-30 16:08:47,823 INFO TRADE spread=0.407% buy 0.066788 ETH on VenueA@2992.77 -> sell on VenueB@3004.96 | profit=$0.41 capital=$1000.81
+2026-08-30 16:08:47,848 INFO TRADE spread=0.845% buy 0.067150 ETH on VenueA@2977.85 -> sell on VenueB@3003.01 | profit=$1.29 capital=$1002.10
+2026-08-30 16:08:48,054 INFO TRADE spread=0.516% buy 0.066760 ETH on VenueB@2999.11 -> sell on VenueA@3014.60 | profit=$0.63 capital=$1002.73
+2026-08-30 16:08:48,211 INFO TRADE spread=1.042% buy 0.067316 ETH on VenueA@2976.20 -> sell on VenueB@3007.21 | profit=$1.68 capital=$1004.42
+2026-08-30 16:08:48,258 INFO TRADE spread=1.036% buy 0.066742 ETH on VenueA@3006.83 -> sell on VenueB@3037.99 | profit=$1.68 capital=$1006.10
+2026-08-30 16:08:48,307 INFO TRADE spread=0.850% buy 0.067287 ETH on VenueB@2987.47 -> sell on VenueA@3012.87 | profit=$1.31 capital=$1007.40
+2026-08-30 16:08:48,471 INFO TRADE spread=1.071% buy 0.066906 ETH on VenueB@3008.39 -> sell on VenueA@3040.61 | profit=$1.75 capital=$1009.15
+2026-08-30 16:08:48,780 INFO TRADE spread=0.964% buy 0.068052 ETH on VenueB@2962.86 -> sell on VenueA@2991.41 | profit=$1.54 capital=$1010.69
+2026-08-30 16:08:48,851 INFO TRADE spread=0.505% buy 0.067710 ETH on VenueA@2982.34 -> sell on VenueB@2997.40 | profit=$0.61 capital=$1011.30
+2026-08-30 16:08:48,902 INFO TRADE spread=0.528% buy 0.067890 ETH on VenueB@2976.25 -> sell on VenueA@2991.95 | profit=$0.66 capital=$1011.96
+2026-08-30 16:08:49,025 INFO TRADE spread=1.300% buy 0.067911 ETH on VenueA@2977.30 -> sell on VenueB@3016.00 | profit=$2.22 capital=$1014.18
+2026-08-30 16:08:49,188 INFO TRADE spread=0.556% buy 0.067759 ETH on VenueB@2990.51 -> sell on VenueA@3007.13 | profit=$0.72 capital=$1014.90
+2026-08-30 16:08:49,377 INFO TRADE spread=0.974% buy 0.068013 ETH on VenueB@2981.44 -> sell on VenueA@3010.48 | profit=$1.57 capital=$1016.47
+2026-08-30 16:08:49,610 INFO TRADE spread=1.174% buy 0.068057 ETH on VenueB@2984.14 -> sell on VenueA@3019.18 | profit=$1.98 capital=$1018.45
+2026-08-30 16:08:50,243 INFO TRADE spread=0.766% buy 0.067741 ETH on VenueB@3003.89 -> sell on VenueA@3026.89 | profit=$1.15 capital=$1019.60
+2026-08-30 16:08:50,333 INFO TRADE spread=1.160% buy 0.067489 ETH on VenueA@3018.49 -> sell on VenueB@3053.51 | profit=$1.95 capital=$1021.55
+2026-08-30 16:08:50,495 INFO TRADE spread=1.060% buy 0.068131 ETH on VenueB@2995.80 -> sell on VenueA@3027.57 | profit=$1.75 capital=$1023.30
+2026-08-30 16:08:50,547 INFO TRADE spread=0.916% buy 0.068100 ETH on VenueB@3002.31 -> sell on VenueA@3029.82 | profit=$1.46 capital=$1024.77
+2026-08-30 16:08:50,712 INFO TRADE spread=0.448% buy 0.067918 ETH on VenueB@3014.64 -> sell on VenueA@3028.16 | profit=$0.51 capital=$1025.27
+2026-08-30 16:08:50,904 INFO TRADE spread=1.248% buy 0.068038 ETH on VenueA@3010.81 -> sell on VenueB@3048.38 | profit=$2.14 capital=$1027.42
+2026-08-30 16:08:50,999 INFO TRADE spread=1.232% buy 0.068226 ETH on VenueA@3008.78 -> sell on VenueB@3045.86 | profit=$2.12 capital=$1029.53
+2026-08-30 16:08:51,287 INFO TRADE spread=1.199% buy 0.069207 ETH on VenueB@2972.27 -> sell on VenueA@3007.90 | profit=$2.05 capital=$1031.59
+2026-08-30 16:08:51,420 INFO TRADE spread=0.831% buy 0.068437 ETH on VenueA@3011.70 -> sell on VenueB@3036.72 | profit=$1.30 capital=$1032.88
+2026-08-30 16:08:51,518 INFO TRADE spread=0.901% buy 0.069225 ETH on VenueB@2981.14 -> sell on VenueA@3007.99 | profit=$1.44 capital=$1034.33
+2026-08-30 16:08:51,570 INFO TRADE spread=0.801% buy 0.069255 ETH on VenueB@2984.03 -> sell on VenueA@3007.92 | profit=$1.24 capital=$1035.57
+2026-08-30 16:08:51,845 INFO TRADE spread=0.703% buy 0.068148 ETH on VenueA@3036.13 -> sell on VenueB@3057.46 | profit=$1.04 capital=$1036.61
+2026-08-30 16:08:51,896 INFO TRADE spread=0.407% buy 0.068527 ETH on VenueA@3022.39 -> sell on VenueB@3034.69 | profit=$0.43 capital=$1037.03
+2026-08-30 16:08:52,225 INFO TRADE spread=0.435% buy 0.067900 ETH on VenueB@3051.53 -> sell on VenueA@3064.79 | profit=$0.48 capital=$1037.52
+2026-08-30 16:08:52,247 INFO TRADE spread=0.628% buy 0.068189 ETH on VenueB@3040.03 -> sell on VenueA@3059.12 | profit=$0.89 capital=$1038.40
+2026-08-30 16:08:52,319 INFO TRADE spread=0.569% buy 0.068376 ETH on VenueA@3034.28 -> sell on VenueB@3051.54 | profit=$0.76 capital=$1039.17
+2026-08-30 16:08:52,422 INFO TRADE spread=1.265% buy 0.067846 ETH on VenueA@3060.24 -> sell on VenueB@3098.95 | profit=$2.21 capital=$1041.38
+2026-08-30 16:08:52,476 INFO TRADE spread=1.179% buy 0.068868 ETH on VenueA@3021.24 -> sell on VenueB@3056.86 | profit=$2.03 capital=$1043.41
+2026-08-30 16:08:52,621 INFO TRADE spread=1.263% buy 0.068307 ETH on VenueA@3052.00 -> sell on VenueB@3090.55 | profit=$2.21 capital=$1045.62
+2026-08-30 16:08:52,646 INFO TRADE spread=0.423% buy 0.068629 ETH on VenueB@3044.12 -> sell on VenueA@3056.99 | profit=$0.46 capital=$1046.09
+2026-08-30 16:08:52,980 INFO TRADE spread=0.688% buy 0.068671 ETH on VenueA@3043.62 -> sell on VenueB@3064.56 | profit=$1.02 capital=$1047.11
+2026-08-30 16:08:53,126 INFO TRADE spread=1.052% buy 0.068745 ETH on VenueA@3043.29 -> sell on VenueB@3075.30 | profit=$1.78 capital=$1048.89
+2026-08-30 16:08:53,530 INFO TRADE spread=1.199% buy 0.068375 ETH on VenueA@3064.98 -> sell on VenueB@3101.72 | profit=$2.09 capital=$1050.98
+2026-08-30 16:08:53,647 INFO TRADE spread=1.425% buy 0.069219 ETH on VenueB@3033.62 -> sell on VenueA@3076.86 | profit=$2.57 capital=$1053.55
+2026-08-30 16:08:53,746 INFO TRADE spread=1.111% buy 0.068439 ETH on VenueB@3075.71 -> sell on VenueA@3109.88 | profit=$1.92 capital=$1055.46
+2026-08-30 16:08:53,792 INFO TRADE spread=1.030% buy 0.068761 ETH on VenueA@3066.85 -> sell on VenueB@3098.45 | profit=$1.75 capital=$1057.21
+2026-08-30 16:08:53,820 INFO TRADE spread=0.557% buy 0.069140 ETH on VenueA@3055.11 -> sell on VenueB@3072.14 | profit=$0.75 capital=$1057.96
+2026-08-30 16:08:53,847 INFO TRADE spread=0.843% buy 0.069565 ETH on VenueB@3038.62 -> sell on VenueA@3064.24 | profit=$1.36 capital=$1059.32
+2026-08-30 16:08:53,917 INFO TRADE spread=1.383% buy 0.069080 ETH on VenueB@3063.88 -> sell on VenueA@3106.24 | profit=$2.50 capital=$1061.82
+2026-08-30 16:08:53,947 INFO TRADE spread=0.411% buy 0.069459 ETH on VenueA@3054.34 -> sell on VenueB@3066.88 | profit=$0.45 capital=$1062.27
+2026-08-30 16:08:54,178 INFO TRADE spread=0.436% buy 0.069476 ETH on VenueB@3054.90 -> sell on VenueA@3068.21 | profit=$0.50 capital=$1062.77
+2026-08-30 16:08:54,224 INFO TRADE spread=0.997% buy 0.069518 ETH on VenueB@3054.46 -> sell on VenueA@3084.90 | profit=$1.69 capital=$1064.45
+2026-08-30 16:08:54,350 INFO TRADE spread=0.698% buy 0.069611 ETH on VenueA@3055.23 -> sell on VenueB@3076.55 | profit=$1.06 capital=$1065.51
+2026-08-30 16:08:54,396 INFO TRADE spread=0.476% buy 0.069654 ETH on VenueA@3056.40 -> sell on VenueB@3070.96 | profit=$0.59 capital=$1066.10
+2026-08-30 16:08:54,423 INFO TRADE spread=1.341% buy 0.070331 ETH on VenueB@3028.64 -> sell on VenueA@3069.25 | profit=$2.43 capital=$1068.53
+2026-08-30 16:08:54,588 INFO TRADE spread=0.964% buy 0.069563 ETH on VenueB@3069.03 -> sell on VenueA@3098.61 | profit=$1.63 capital=$1070.15
+2026-08-30 16:08:54,680 INFO TRADE spread=0.512% buy 0.069626 ETH on VenueB@3070.94 -> sell on VenueA@3086.67 | profit=$0.67 capital=$1070.82
+2026-08-30 16:08:54,703 INFO TRADE spread=0.628% buy 0.069715 ETH on VenueA@3068.92 -> sell on VenueB@3088.18 | profit=$0.91 capital=$1071.73
+2026-08-30 16:08:54,802 INFO TRADE spread=0.863% buy 0.069466 ETH on VenueB@3082.57 -> sell on VenueA@3109.17 | profit=$1.42 capital=$1073.15
+2026-08-30 16:08:54,830 INFO TRADE spread=1.391% buy 0.070314 ETH on VenueA@3049.42 -> sell on VenueB@3091.84 | profit=$2.55 capital=$1075.70
+2026-08-30 16:08:55,053 INFO TRADE spread=0.877% buy 0.070248 ETH on VenueA@3059.54 -> sell on VenueB@3086.38 | profit=$1.45 capital=$1077.16
+2026-08-30 16:08:55,191 INFO TRADE spread=0.627% buy 0.070161 ETH on VenueA@3067.46 -> sell on VenueB@3086.69 | profit=$0.92 capital=$1078.07
+2026-08-30 16:08:55,240 INFO TRADE spread=0.822% buy 0.070099 ETH on VenueA@3072.77 -> sell on VenueB@3098.04 | profit=$1.34 capital=$1079.41
+2026-08-30 16:08:55,860 INFO TRADE spread=0.438% buy 0.070174 ETH on VenueB@3073.29 -> sell on VenueA@3086.74 | profit=$0.51 capital=$1079.92
+2026-08-30 16:08:56,122 INFO TRADE spread=1.232% buy 0.069915 ETH on VenueB@3086.15 -> sell on VenueA@3124.18 | profit=$2.22 capital=$1082.15
+2026-08-30 16:08:56,150 INFO TRADE spread=1.226% buy 0.070687 ETH on VenueB@3058.75 -> sell on VenueA@3096.25 | profit=$2.22 capital=$1084.36
+2026-08-30 16:08:56,269 INFO TRADE spread=0.489% buy 0.070091 ETH on VenueB@3091.06 -> sell on VenueA@3106.18 | profit=$0.63 capital=$1084.99
+2026-08-30 16:08:56,455 INFO TRADE spread=0.971% buy 0.070145 ETH on VenueB@3090.47 -> sell on VenueA@3120.48 | profit=$1.67 capital=$1086.66
+2026-08-30 16:08:56,569 INFO TRADE spread=0.938% buy 0.070879 ETH on VenueB@3063.18 -> sell on VenueA@3091.92 | profit=$1.60 capital=$1088.26
+2026-08-30 16:08:56,596 INFO TRADE spread=0.934% buy 0.070448 ETH on VenueB@3086.45 -> sell on VenueA@3115.29 | profit=$1.59 capital=$1089.85
+2026-08-30 16:08:56,622 INFO TRADE spread=0.918% buy 0.071196 ETH on VenueB@3058.48 -> sell on VenueA@3086.55 | profit=$1.56 capital=$1091.41
+2026-08-30 16:08:56,986 INFO TRADE spread=0.418% buy 0.070674 ETH on VenueA@3085.50 -> sell on VenueB@3098.40 | profit=$0.47 capital=$1091.89
+2026-08-30 16:08:57,105 INFO TRADE spread=0.412% buy 0.070519 ETH on VenueA@3093.62 -> sell on VenueB@3106.38 | profit=$0.46 capital=$1092.35
+2026-08-30 16:08:57,560 INFO TRADE spread=1.005% buy 0.071307 ETH on VenueB@3060.75 -> sell on VenueA@3091.51 | profit=$1.75 capital=$1094.10
+2026-08-30 16:08:57,700 INFO TRADE spread=0.930% buy 0.071484 ETH on VenueB@3058.07 -> sell on VenueA@3086.50 | profit=$1.59 capital=$1095.70
+2026-08-30 16:08:57,949 INFO TRADE spread=1.348% buy 0.071074 ETH on VenueA@3080.17 -> sell on VenueB@3121.70 | profit=$2.51 capital=$1098.21
+2026-08-30 16:08:58,083 INFO TRADE spread=1.317% buy 0.071536 ETH on VenueA@3067.30 -> sell on VenueB@3107.70 | profit=$2.45 capital=$1100.66
+2026-08-30 16:08:58,197 INFO TRADE spread=1.246% buy 0.071454 ETH on VenueB@3077.65 -> sell on VenueA@3115.99 | profit=$2.30 capital=$1102.95
+2026-08-30 16:08:58,288 INFO 
+2026-08-30 16:08:58,288 INFO ==================================================
+2026-08-30 16:08:58,288 INFO TRADING SUMMARY
+2026-08-30 16:08:58,288 INFO ==================================================
+2026-08-30 16:08:58,289 INFO Starting capital:  $1,000.00
+2026-08-30 16:08:58,289 INFO Ending capital:    $1,102.95
+2026-08-30 16:08:58,289 INFO Total P/L:         $102.95 (+10.295%)
+2026-08-30 16:08:58,289 INFO Trades executed:   73  (wins: 73, losses: 0)
+2026-08-30 16:08:58,289 INFO ==================================================
